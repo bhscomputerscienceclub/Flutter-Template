@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'my_app.dart';
+import 'screens/home_page.dart';
 import 'package:wakelock/wakelock.dart';
 
 void main() {
